@@ -1,7 +1,7 @@
 {
   "name": "totem-app",
   "version": "0.0.1",
-  "author": "Ionic Framework",
+  "author": "Rafael Tomas",
   "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
